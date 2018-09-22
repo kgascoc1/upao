@@ -1,0 +1,6 @@
+echo "# upao" >> README.md 
+git init 
+git agregar README.md 
+git commit -m "first commit" 
+git remote agregar origen https://github.com/kgascoc1/upao.git
+ git push -u origin master
